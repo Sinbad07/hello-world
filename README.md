@@ -1,2 +1,4 @@
 # hello-world
-Test repository 
+Test repository
+
+Created to test Github functionality and acclimatize myself to the platform.
