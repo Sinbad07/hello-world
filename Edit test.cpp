@@ -1,6 +1,12 @@
 //Testing area below
 //-------------------
+#include <iostream>
 
-std::cout << "Hello world" << std::endl;
-
+main int(){
+  
+  std::cout << "Hello world" << std::endl;
+  
+  return 0;
+}
+  
 //-------------------
